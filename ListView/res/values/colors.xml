@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="white">#FFFFFF</color>
+    <!-- 标题栏背景色 -->
+    <color name="bg_titleBar">#ff58bb52</color>
+    <color name="green">#56AF43</color>
+    <color name="black">#FF000000</color>
+    <!-- 背景色为灰色 -->
+    <color name="bg_gray">#F7F4F4</color>
+    <!-- popwindow背景颜色 -->
+    <color name="pop_bg">#c0000000</color>
+    <!-- 绿色字体 -->
+    <color name="bg_green">#34C6E8</color>
+    <!-- 黄色字体 -->
+    <color name="bg_yellow">#F0BD3A</color>
+    <color name="verify_gray">#D2D2D2</color>
+    <!-- 登录按钮的颜色 -->
+    <color name="bg_login">#00CAE4</color>
+    <!-- 海蓝色 -->
+    <color name="bg_sea_blue">#3CC0D4</color>
+    <!-- 深海蓝色 -->
+    <color name="bg_dark_sea_blue">#33A7B7</color>
+    <!-- 粉红色 -->
+    <color name="bg_pink">#FF7263</color>
+    <!-- 宝石绿 -->
+    <color name="bg_gem_green">#00C6BF</color>
+    <!-- 深宝石绿 -->
+    <color name="bg_dark_gem_green">#00AFA9</color>
+    <!-- 紫色 -->
+    <color name="bg_purple">#805268</color>
+    <!-- 深紫色 -->
+    <color name="bg_dark_purple">#6F3456</color>
+    <!-- 红色 -->
+    <color name="bg_red">#FF6063</color>
+    <!-- 深红色 -->
+    <color name="bg_dark_red">#F65249</color>
+    <!-- 亮粉红色 -->
+    <color name="bg_bright_pink">#FFFAEF</color>
+    <!-- 银灰色 -->
+    <color name="bg_silver_gray">#B9B4AE</color>
+    <!-- 边框为绿色的 -->
+    <color name="bg_border_green">#00D3CD</color>
+    <!-- 深蓝色 -->
+    <color name="bg_dark_blue">#5C81AE</color>
+    <!-- 青色 -->
+    <color name="bg_cyan">#00E06C</color>
+    <!-- 黑色 -->
+    <color name="bg_black">#343535</color>
+    <!-- 灰色 -->
+    <color name="bg_tv_gray">#ECEAE8</color>
+    <!-- 橘黄色 -->
+    <color name="bg_orange">#FF8841</color>
+    <!-- 灰色按钮 -->
+    <color name="btn_gray">#CECED1</color>
+    <!-- 灰色字体 -->
+    <color name="tv_gray">#B9B4AE</color>
+
+    <!-- 灰色时间字体 -->
+    <color name="tv_time_gray">#B5B1AB</color>
+    <!-- 红色价格字体 -->
+    <color name="tv_red">#FF7B76</color>
+     <!-- 督办背景色 -->
+    <color name="bg_urge">#FDC683</color>
+    <!-- 分割线背景色 -->
+    <color name="bg_divide">#B1EBEB</color>
+
+</resources>

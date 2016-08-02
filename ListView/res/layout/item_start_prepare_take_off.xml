@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/white"
+    android:orientation="horizontal" >
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:orientation="vertical" >
+
+        <ImageView
+            android:id="@+id/img"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="3dp"
+            android:layout_marginTop="2dp"
+            android:src="@drawable/circle_gray" />
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="2dp"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="2dp"
+            android:background="@color/bg_gray" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/tv_start_apply_leader_time"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:text="2016-07-29"
+            android:textColor="@color/tv_time_gray" />
+
+        <TextView
+            android:id="@+id/tv_start_apply_leader"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:text="随便写的测试的"
+            android:textSize="15dp" />
+
+        <TextView
+            android:id="@+id/tv_sure_take_off"
+            android:layout_width="180dp"
+            android:layout_height="40dp"
+            android:layout_margin="10dp"
+            android:background="@drawable/btn_gray"
+            android:gravity="center"
+            android:text="已经差不多了"
+            android:textColor="@color/white" />
+
+        <LinearLayout
+            android:id="@+id/ll_sure_take_off"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="2dp"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/tv_sure_take_off_time"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:text="2016-07-28"
+                android:textColor="@color/tv_time_gray" />
+
+            <TextView
+                android:id="@+id/tv_sure_take_off_content"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:text="已经准备的差不多了"
+                android:textSize="@dimen/fifteenth" />
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

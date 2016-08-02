@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <!-- 内部颜色 -->
+    <solid android:color="@color/btn_gray" />
+    <!-- 边缘线条颜色 -->
+
+    <stroke
+        android:width="@dimen/one"
+        android:color="@color/white" />
+    <!-- 圆角的幅度 -->
+    <corners
+        android:bottomLeftRadius="@dimen/four"
+        android:bottomRightRadius="@dimen/four"
+        android:topLeftRadius="@dimen/four"
+        android:topRightRadius="@dimen/four" />
+
+</shape>
